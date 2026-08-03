@@ -39,7 +39,7 @@ Para ejecutar este proyecto en un ambiente de desarrollo o producción, se requi
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/TU_USUARIO_GITHUB/inv3rse-gestion-proyectos.git
-cd inv3rse-gestion-proyectos
+cd inv3rse-gestion-proyectos "
 
 
 ### 2. Configuración del Producto
