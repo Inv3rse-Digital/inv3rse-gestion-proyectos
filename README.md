@@ -41,7 +41,7 @@ Para ejecutar este proyecto en un ambiente de desarrollo o producción, se requi
 git clone https://github.com/TU_USUARIO_GITHUB/inv3rse-gestion-proyectos.git
 cd inv3rse-gestion-proyectos
 
----
+
 
 ### 2. Configuración del Producto
 El archivo principal de configuración es src/main/resources/application.properties. Debes configurar las credenciales de tu base de datos (por seguridad, este archivo está en .gitignore en producción):
