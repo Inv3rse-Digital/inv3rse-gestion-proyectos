@@ -42,7 +42,7 @@ git clone https://github.com/TU_USUARIO_GITHUB/inv3rse-gestion-proyectos.git
 cd inv3rse-gestion-proyectos
 
 2. Configuración del Producto
-El archivo principal de configuración es src/main/resources/application.properties. Debes configurar las credenciales de tu base de datos (por seguridad, este archivo está en .gitignore en producción):
+```El archivo principal de configuración es src/main/resources/application.properties. Debes configurar las credenciales de tu base de datos (por seguridad, este archivo está en .gitignore en producción):
 
 spring.datasource.url=jdbc:mysql://TU_HOST:3306/TU_BASE_DE_DATOS
 spring.datasource.username=TU_USUARIO_BD
