@@ -50,4 +50,14 @@ spring.datasource.username=TU_USUARIO_BD
 spring.datasource.password=TU_CONTRASEÑA_BD
 spring.jpa.hibernate.ddl-auto=update
 server.port=9090
-```
+"
+3. Ejecución en Ambiente de Desarrollo
+Abre el proyecto en tu IDE.
+Ejecuta mvn clean compile para verificar dependencias.
+Ejecuta las pruebas unitarias con mvn test (valida el contexto de Spring Boot).
+Ejecuta la clase principal GestionProyectosApplication.java.
+Accede a http://localhost:9090 en tu navegador.
+4. Implementación en Producción (Local o Nube)
+Para generar el artefacto ejecutable:
+mvn clean package
+"
