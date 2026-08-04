@@ -1,16 +1,8 @@
 # 🚀 Sistema de Gestión y Portafolio para Inv3rse
 
-<p align="center">
-  <a href="https://youtu.be/xb_6zS8WHqI" target="_blank">
-    <img src="https://img.youtube.com/vi/xb_6zS8WHqI/hqdefault.jpg" alt="Ver Video de Demostración" width="600"/>
-  </a>
-  <br>
-  <em>📺 Haz clic en la imagen para ver la demostración de la Fase IV</em>
-</p>
+📺 **[Ver Demostración en Video (Fase IV)](https://youtu.be/xb_6zS8WHqI)**
 
-[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
-
-
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/
 ## 📋 Resumen Ejecutivo
 **Inv3rse** es una empresa dedicada al desarrollo de experiencias creativas inmersivas (AR/VR, Animación 2D/3D y experiencias Phygital). Actualmente, enfrentan una problemática de información dispersa (briefs, presupuestos y feedback en correos), ausencia de un portafolio unificado y un control de versiones nulo en la gestión de proyectos.
 
