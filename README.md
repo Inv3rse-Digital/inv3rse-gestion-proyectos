@@ -1,6 +1,6 @@
 # 🚀 Sistema de Gestión y Portafolio para Inv3rse
 
-📺 **[Ver Demostración en Video (Fase IV)](https://youtu.be/xb_6zS8WHqI)**
+📺 **[Ver Demostración de funcionamiento en Video (Fase IV)](https://youtu.be/xb_6zS8WHqI)**
 
 
 ## 📋 Resumen Ejecutivo
