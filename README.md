@@ -1,6 +1,12 @@
 # 🚀 Sistema de Gestión y Portafolio para Inv3rse
 
-📺 **[Ver Demostración en Video (Fase IV)](https://youtu.be/xb_6zS8WHqI)**
+<p align="center">
+  <a href="https://youtu.be/xb_6zS8WHqI" target="_blank">
+    <img src="https://img.youtube.com/vi/xb_6zS8WHqI/hqdefault.jpg" alt="Ver Video de Demostración" width="600"/>
+  </a>
+  <br>
+  <em>📺 Haz clic en la imagen para ver la demostración de la Fase IV</em>
+</p>
 
 [![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://www.oracle.com/java/)
 
