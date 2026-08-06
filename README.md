@@ -9,12 +9,16 @@
 Descripción:
 Sistema Web de Gestión y Portafolio desarrollado en Java (Spring Boot) para la empresa Inv3rse, dedicado al desarrollo de experiencias creativas inmersivas (AR/VR).
 Problema Identificado:
+
 Actualmente, el equipo creativo enfrenta una problemática en la gestión interna de sus proyectos. La falta de un sistema centralizado para definir fechas de entrega, características específicas y tipos de proyecto resulta en un control disperso. Esto genera riesgos de olvidos, retrasos en los entregables y dificulta el seguimiento del avance.
+
 Solución:
 Se desarrolló una plataforma que centraliza y optimiza este flujo de trabajo. Permite al área creativa registrar, clasificar y dar seguimiento detallado a cada proyecto en tiempo real, garantizando un control riguroso que evita omisiones en las tareas.
+
 Arquitectura:
 El sistema sigue una arquitectura en capas (Monolito Modular) para facilitar el mantenimiento:
 Frontend: Interfaz responsiva con HTML5, JavaScript y Tailwind CSS.
+
 Backend: Spring Boot 3.2.5 con Java 21, manejando la lógica de negocio y APIs REST.
 Capa de Datos: Base de datos relacional MySQL 8.0 (alojada en HostGator) para la integridad de la información.
 
