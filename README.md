@@ -12,9 +12,10 @@ Problema Identificado:
 
 Actualmente, el equipo creativo enfrenta una problemática en la gestión interna de sus proyectos. La falta de un sistema centralizado para definir fechas de entrega, características específicas y tipos de proyecto resulta en un control disperso. Esto genera riesgos de olvidos, retrasos en los entregables y dificulta el seguimiento del avance.
 
+```bash
 Solución:
 Se desarrolló una plataforma que centraliza y optimiza este flujo de trabajo. Permite al área creativa registrar, clasificar y dar seguimiento detallado a cada proyecto en tiempo real, garantizando un control riguroso que evita omisiones en las tareas.
-
+```
 Arquitectura:
 El sistema sigue una arquitectura en capas (Monolito Modular) para facilitar el mantenimiento:
 Frontend: Interfaz responsiva con HTML5, JavaScript y Tailwind CSS.
